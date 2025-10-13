@@ -1,9 +1,5 @@
 {
     "mcpServers": {
-        "serena": {
-            "command": "C:/Users/gyurae/.local/bin/uvx.exe",
-            "args": ["--from", "git+https://github.com/oraios/serena", "serena", "start-mcp-server"]
-        },
         "filesystem-with-morph": {
             "command": "cmd",
             "args": [
@@ -13,7 +9,7 @@
                 "@morph-llm/morph-fast-apply"
             ],
             "env": {
-                "MORPH_API_KEY": "sk-OtRuRiqvaH-wXljk8g1FVs1sb-D4ZdauECLyUoaIQ-6Oskal",
+                "MORPH_API_KEY": "[your key goes here]",
                 "ALL_TOOLS": "true"
             }
         },
@@ -25,35 +21,6 @@
             "-y",
             "@modelcontextprotocol/server-sequential-thinking"
           ]
-      },
-        "playwright": {
-          "command": "cmd",
-          "args": [
-              "/c",
-              "npx",
-              "-y",
-              "@playwright/mcp@latest"
-          ]
-        },
-        "task-master-ai": {
-          "command": "cmd",
-          "args": [
-              "/c",
-              "npx",
-              "-y",
-              "--package=task-master-ai",
-              "task-master-ai"
-          ]
-        },
-        "context7": {
-          "command": "cmd",
-          "args": [
-              "/c",
-              "npx",
-              "-y",
-              "@upstash/context7-mcp"
-          ],
-          "env": {}
-        }
+      }
     }
 }

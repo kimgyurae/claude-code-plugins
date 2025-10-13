@@ -1,13 +1,8 @@
 {
-  "name": "general-plugins",
+  "name": "top-engineering-csharp",
   "version": "1.0.0",
-  "description": "Full-featured plugin with commands, agents, and hooks",
+  "description": "csharp plugin for top engineering",
   "author": {
-    "name": "Ryan Kim",
-    "email": "[email protected]"
-  },
-  "repository": "https://github.com/kimgyurae/claude-code-plugins",
-  "license": "MIT",
-  "keywords": ["full-featured"],
-  "hooks": "./hooks/hooks.json"
+    "name": "Ryan Kim"
+  }
 }

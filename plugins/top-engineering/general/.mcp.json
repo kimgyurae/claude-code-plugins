@@ -9,7 +9,7 @@
                 "@morph-llm/morph-fast-apply"
             ],
             "env": {
-                "MORPH_API_KEY": "sk-OtRuRiqvaH-wXljk8g1FVs1sb-D4ZdauECLyUoaIQ-6Oskal",
+                "MORPH_API_KEY": "[your key goes here]",
                 "ALL_TOOLS": "true"
             }
         },
