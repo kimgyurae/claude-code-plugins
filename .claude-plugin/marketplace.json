@@ -24,6 +24,11 @@
       "name": "typescript",
       "source": "./plugins/typescript",
       "description": "TypeScript and JavaScript Development Plugins for Top Engineering"
+    },
+    {
+      "name": "sc",
+      "source": "./plugins/sc",
+      "description": "Super Claude Plugin"
     }
   ]
 }
