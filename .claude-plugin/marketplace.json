@@ -10,20 +10,20 @@
     "pluginRoot": "./plugins"
   },
   "plugins": [
-  {
+    {
       "name": "csharp",
-      "source": "./plugins/top-engineering/csharp",
+      "source": "./plugins/csharp",
       "description": "C# Development Plugins for Top Engineering"
     },
-  {
+    {
       "name": "general",
-      "source": "./plugins/top-engineering/general",
+      "source": "./plugins/general",
       "description": "General Development Plugins for Top Engineering"
     },
-  {
+    {
       "name": "typescript",
-      "source": "./plugins/top-engineering/typescript",
+      "source": "./plugins/typescript",
       "description": "TypeScript and JavaScript Development Plugins for Top Engineering"
-      }
+    }
   ]
 }
