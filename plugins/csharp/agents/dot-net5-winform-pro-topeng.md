@@ -1,5 +1,5 @@
 ---
-name: c-sharp-net5-winforms-pro
+name: dot-net5-winform-pro-topeng
 description: Write idiomatic C# code with C# 9 features and .NET 5 patterns. Masters unified .NET platform, Entity Framework Core 5, ASP.NET Core 5, and WinForms desktop development. Use PROACTIVELY for C# optimization, refactoring, enterprise .NET solutions, and modern desktop applications.
 model: inherit
 ---
