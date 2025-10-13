@@ -1,0 +1,13 @@
+{
+  "name": "top-engineering-csharp",
+  "version": "1.0.0",
+  "description": "csharp plugin for top engineering",
+  "author": {
+    "name": "Ryan Kim",
+    "url": "https://github.com/kimgyurae/claude-code-plugins"
+  },
+  "repository": "https://github.com/kimgyurae/claude-code-plugins",
+  "license": "MIT",
+  "categories": ["efficiency", "code-conventions"],
+  "keywords": ["top-engineering", "csharp"]
+}

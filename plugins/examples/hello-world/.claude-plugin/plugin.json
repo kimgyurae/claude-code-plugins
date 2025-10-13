@@ -1,0 +1,12 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "Simple example plugin demonstrating basic slash commands",
+  "author": {
+    "name": "kimgyurae",
+    "email": "[email protected]"
+  },
+  "repository": "https://github.com/kimgyurae/claude-code-plugins",
+  "license": "MIT",
+  "keywords": ["example", "tutorial", "beginner"]
+}

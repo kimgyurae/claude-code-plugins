@@ -1,0 +1,11 @@
+{
+  "name": "security-agent",
+  "version": "1.0.0",
+  "description": "Specialized security review subagent",
+  "author": {
+    "name": "kimgyurae"
+  },
+  "license": "MIT",
+  "keywords": ["security", "agent", "code-review", "vulnerability"],
+  "agents": "./agents/"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "general-plugins",
+  "version": "1.0.0",
+  "description": "Full-featured plugin with commands, agents, and hooks",
+  "author": {
+    "name": "Ryan Kim",
+    "email": "[email protected]"
+  },
+  "repository": "https://github.com/kimgyurae/claude-code-plugins",
+  "license": "MIT",
+  "keywords": ["full-featured"],
+  "hooks": "./hooks/hooks.json"
+}
