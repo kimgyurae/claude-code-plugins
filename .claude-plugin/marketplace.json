@@ -1,9 +1,7 @@
 {
   "name": "claude-code-plugins",
   "owner": {
-    "name": "Gyurae Kim",
-    "email": "[email protected]",
-    "url": "https://github.com/kimgyurae"
+    "name": "Gyurae Kim"
   },
   "metadata": {
     "description": "Top Engineering plugins",
@@ -15,34 +13,17 @@
   {
       "name": "csharp",
       "source": "./plugins/top-engineering/csharp",
-      "description": "C# Development Plugins for Top Engineering",
-      "version": "1.0.0",
-      "category": "chsrap",
-      "keywords": [
-        "top-engineering",
-        "csharp"
-      ],
-      "author": {
-        "name": "Gyurae Kim",
-        "url": "https://github.com/kimgyurae/claude-code-plugins"
-      },
-      "featured": true
+      "description": "C# Development Plugins for Top Engineering"
     },
   {
       "name": "general",
       "source": "./plugins/top-engineering/general",
-      "description": "General Development Plugins for Top Engineering",
-      "version": "1.0.0",
-      "category": "general",
-      "keywords": [
-        "top-engineering",
-        "general"
-      ],
-      "author": {
-        "name": "Gyurae Kim",
-        "url": "https://github.com/kimgyurae/claude-code-plugins"
-      },
-      "featured": true
-    }
+      "description": "General Development Plugins for Top Engineering"
+    },
+  {
+      "name": "typescript",
+      "source": "./plugins/top-engineering/typescript",
+      "description": "TypeScript and JavaScript Development Plugins for Top Engineering"
+      }
   ]
 }

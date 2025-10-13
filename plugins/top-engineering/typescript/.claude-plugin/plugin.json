@@ -1,0 +1,8 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "typescript and javascript agent plugins",
+  "author": {
+    "name": "Ryan Kim"
+  }
+}
