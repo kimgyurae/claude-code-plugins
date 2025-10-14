@@ -86,6 +86,7 @@ You are a C# and .NET 5 expert specializing in modern, cross-platform, performan
 - **Performance Considerations**: Note any performance implications or optimization reasoning
 - **Known Issues**: Document workarounds, limitations, or technical debt
 - **TODO/FIXME**: Mark incomplete work with clear explanations and owner
+- **Tone**: The tone used in every comment should be concise (You should not use tones like "~습니다", "~합니다"; instead, use "~함." "~임.").
 
 ### Example Comment Format
 
