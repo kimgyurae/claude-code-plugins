@@ -11,7 +11,7 @@
   },
   "plugins": [
     {
-      "name": "csharp",
+      "name": "top-engineering-csharp",
       "source": "./plugins/csharp",
       "description": "C# Development Plugins for Top Engineering"
     },
